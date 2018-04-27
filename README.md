@@ -9,6 +9,7 @@ Unzip the MovieTicketBookingManagementApp folder and import this project into ST
 
 Build & Deploy:
 MovieTicketBookingManagementAppApplication is my spring boot application.
+HSQL is being used as Embedded database for storing the movie ticket.
 Either run MovieTicketBookingManagementAppApplication as java application or spring boot app
 
 Junit Test cases:
